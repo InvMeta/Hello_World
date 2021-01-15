@@ -1,9 +1,9 @@
 # Hello_World
 My first Repository on GitHub
-## NAME_OF_YOUR_APP_HERE
+## Hello World
 
 ### App Description
-`TODO://` Add app description
+This app edits the text at the top of the app. You could change the text color, change the app background, or change the contents of the text.
 
 ### App Walk-though
 
